@@ -1,0 +1,9 @@
+<Context>
+	<Resource name="jdbc/Flypay" auth="Container" 
+	type="javax.sql.DataSource" username="admin" password="s840r2POeQ"
+	driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+	url="jdbc:sqlserver://localhost;DatabaseName=Flypay;" 
+	maxActive="15" />
+</Context>
+
+
